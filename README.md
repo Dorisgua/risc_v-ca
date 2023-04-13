@@ -4,9 +4,9 @@
 ## cache：
 1、https://zhuanlan.zhihu.com/p/484951383?utm_id=0<br>
 缓存友好程序设计指南，有一些例子，讲的很详细<br>
-2、https://www.cnblogs.com/luoyinjie/p/10063432.html  
-【C++】如何提高Cache的命中率，示例
-3、https://lwn.net/Articles/255364/  
+2、https://www.cnblogs.com/luoyinjie/p/10063432.html  <br>
+【C++】如何提高Cache的命中率  <br>
+3、https://lwn.net/Articles/255364/  <br>
 一个博客，Memory part 5: What programmers can do  
 4、https://www.intel.com/content/www/us/en/developer/articles/technical/cache-blocking-techniques.html
 2023年lab8给到的参考
