@@ -22,7 +22,7 @@
 8、https://robotics.shanghaitech.edu.cn/courses/ca/16s/<br>
 ## risc_v模拟：venus
 https://autolab.sist.shanghaitech.edu.cn/venus/
-## 参考别人的作业
+## 参考历年资料
 1、https://github.com/haohuaijin/CS61C  
 2、https://github.com/chibinz/CS110/tree/master/lab  
 3、https://github.com/billhu0/CS110/tree/main/Labs/Lab08  
