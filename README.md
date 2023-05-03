@@ -1,7 +1,8 @@
 # risc_v-ca  
 # ca_learn
 参考记录
-## cache：
+## 知识点
+### 1、cache：
 1、https://zhuanlan.zhihu.com/p/484951383?utm_id=0<br>
 缓存友好程序设计指南，有一些例子，讲的很详细<br>
 2、https://www.cnblogs.com/luoyinjie/p/10063432.html  <br>
@@ -10,6 +11,8 @@
 一个博客，Memory part 5: What programmers can do  
 4、https://www.intel.com/content/www/us/en/developer/articles/technical/cache-blocking-techniques.html
 2023年lab8给到的参考
+### 2、多线程：
+1、omp_set_num_threads：https://gcc.gnu.org/onlinedocs/libgomp/omp_005fset_005fnum_005fthreads.html  
 
 ## 学校的网站：
 1、https://toast-lab.sist.shanghaitech.edu.cn/courses/CS110@ShanghaiTech/Spring-2023/<br>
