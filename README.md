@@ -23,9 +23,11 @@
 6、https://robotics.shanghaitech.edu.cn/courses/ca/18s/<br>
 7、https://robotics.shanghaitech.edu.cn/courses/ca/17s/<br>
 8、https://robotics.shanghaitech.edu.cn/courses/ca/16s/<br>
-## risc_v模拟：venus
-https://autolab.sist.shanghaitech.edu.cn/venus/
+## logisim：
+1、edge://split-window-starting-page/
+## risc_v
+1、venus模拟：https://autolab.sist.shanghaitech.edu.cn/venus/
 ## 参考历年资料
 1、https://github.com/haohuaijin/CS61C  
-2、https://github.com/chibinz/CS110
+2、https://github.com/chibinz/CS110  
 3、https://github.com/billhu0/CS110
